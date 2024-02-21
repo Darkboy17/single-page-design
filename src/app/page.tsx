@@ -39,7 +39,7 @@ export default function Home() {
               Team
             </div>
             <div className="text-gray-700 text-xl font-bold tracking-wide self-center grow whitespace-nowrap my-auto">
-              Contact Us
+              Reach Us
             </div>
           </span>
         </div>
