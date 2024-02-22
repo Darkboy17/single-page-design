@@ -21,7 +21,7 @@ export default function Home() {
           <div className="black-box bg-neutral-900 flex w-[75px] shrink-0 h-[75px] flex-col absolute left-10 p-4"></div>
           <span className="navbgdrop shadow-sm flex items-start justify-end gap-12 p-2.5 rounded-[50px] max-md:max-w-full max-md:flex-wrap max-md:pr-5">
             <span className="text-gray-700 text-xl font-semibold tracking-wide whitespace-nowrap shadow-sm bg-white self-stretch grow justify-center items-stretch px-7 py-5 rounded-[50px] max-md:px-5">
-              Home
+              Home is where the heart is
             </span>
             <div className="text-gray-700 text-xl font-bold tracking-wide self-center my-auto">
               About Us
@@ -39,7 +39,7 @@ export default function Home() {
               Team
             </div>
             <div className="text-gray-700 text-xl font-bold tracking-wide self-center grow whitespace-nowrap my-auto">
-              Contact Us
+              Reach Us
             </div>
           </span>
         </div>
